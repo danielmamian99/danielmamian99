@@ -1,25 +1,7 @@
 <div id='header' align='center'>
     <img src='https://i.ytimg.com/vi/_RZ-T6TxP7w/maxresdefault.jpg' width='400'/>
-    <h1> Hi👋, I'm Daniel Mamián </h1>
-    <h3> A passionate frontend developer React lover from Colombia </h3>
 </div>
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14182
-Fork on GitHub
-3764
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Daniel Mamian</h1>
 <h3 align="center">A passionate frontend developer React lover from Colombia</h3>
 
