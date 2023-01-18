@@ -17,7 +17,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=danielmamian99&theme=onedark&rank=-UNKNOWN,-SECRET"
+      src="https://github-profile-trophy.vercel.app/?username=danielmamian99&theme=onedark&rank=-unknown,-secret"
       alt="danielmamian99"
   /></a>
 </p>
