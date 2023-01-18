@@ -17,14 +17,17 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=danielmamian99"
+      src="https://github-profile-trophy.vercel.app/?username=danielmamian99&theme=onedark"
       alt="danielmamian99"
   /></a>
 </p>
 
 - 🔭 I’m currently working on
-[Calendar](https://github.com/danielmamian99/Calendar) - 🌱 I’m currently
-learning **NestJs** - 📫 How to reach me **danimaster99@gmail.com**
+[Calendar](https://github.com/danielmamian99/Calendar)
+
+- 🌱 I’m currently learning **NestJs** 
+
+- 📫 How to reach me **danimaster99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
