@@ -22,7 +22,7 @@
   /></a>
 </p>
 <p>
-    - 📫 How to reach me **danimaster99@gmail.com**
+    - 📫 How to reach me danimaster99@gmail.com
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -124,6 +124,14 @@
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.icons8.com/color/480/material-ui.png"
+      alt="mui"
       width="40"
       height="40"
     />
