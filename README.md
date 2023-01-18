@@ -21,11 +21,9 @@
       alt="danielmamian99"
   /></a>
 </p>
-
-- 🔭 I’m currently working on
-[Calendar](https://github.com/danielmamian99/Calendar) - 🌱 I’m currently
-learning **NestJs** - 📫 How to reach me **danimaster99@gmail.com**
-
+<p>
+    - 📫 How to reach me **danimaster99@gmail.com**
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
