@@ -6,7 +6,9 @@
 <h3 align="center">
   A passionate frontend developer React lover from Colombia
 </h3>
-
+<h4>
+  Find my contributions mostly in gitlab https://gitlab.com/daniel.mamian
+</h4>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=danielmamian99&label=Profile%20views&color=0e75b6&style=flat"
